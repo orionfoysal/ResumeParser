@@ -1,6 +1,6 @@
 '''
 For windows. Tested on windows 10
-- include poppler to windows path variable
+- include poppler bin folder to windows path variable
 - run python try-win.py pdf/1.pdf
 
 '''
